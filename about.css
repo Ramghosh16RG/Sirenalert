@@ -6,7 +6,9 @@
     font-family: 'Poppins', sans-serif
 }
 
-
+#about{
+    margin-left: 150px;
+}
 .container .card
 {
     max-width: 300px;
